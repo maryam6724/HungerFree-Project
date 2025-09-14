@@ -48,7 +48,7 @@
 
         <button
           type="submit"
-          class="w-full bg-gradient-to-r from-green-500 to-teal-400 hover:from-green-600 hover:to-teal-500 text-white font-bold py-3 rounded-lg shadow-lg shadow-green-500/30 hover:shadow-teal-400/40 transition-all duration-300 transform hover:scale-105"
+          class="w-full bg-gradient-to-r from-blue-500 to-teal-400 hover:from-blue-600 hover:to-teal-500 text-white font-bold py-3 rounded-lg shadow-lg shadow-green-500/30 hover:shadow-teal-400/40 transition-all duration-300 transform hover:scale-105"
         >
           Create My Account
         </button>
@@ -56,7 +56,7 @@
 
       <p class="text-center mt-8 text-gray-400">
         Already a member?
-        <router-link to="/login" class="text-green-400 font-semibold hover:text-green-300 transition-colors">Login Here</router-link>
+        <router-link to="/login" class="text-blue-400 font-semibold hover:text-blue-300 transition-colors">Login Here</router-link>
       </p>
     </div>
   </div>
