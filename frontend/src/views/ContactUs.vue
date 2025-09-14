@@ -31,7 +31,7 @@
         </div>
 
         <button type="submit"
-          class="w-full bg-gradient-to-r from-green-500 to-teal-400 hover:from-green-600 hover:to-teal-500 text-white py-3 rounded-lg font-semibold transition">
+          class="w-full bg-gradient-to-r from-blue-500 to-teal-400 hover:from-blue-600 hover:to-teal-500 text-white py-3 rounded-lg font-semibold transition">
           Send Message
         </button>
       </form>
