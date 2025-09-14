@@ -31,6 +31,12 @@
             <router-link to="/login" class="nav-link">
               Login
             </router-link>
+            <router-link to="/about" class="nav-link">
+              About Us
+            </router-link>
+            <router-link to="/contact" class="nav-link">
+              Contact Us
+            </router-link>
             <router-link
               to="/signup"
               class="action-button bg-gradient-to-r from-purple-500 to-blue-500 hover:from-purple-600 hover:to-blue-600 shadow-blue-500/30"
