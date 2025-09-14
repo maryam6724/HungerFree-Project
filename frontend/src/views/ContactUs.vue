@@ -6,7 +6,7 @@
     </div>
 
     <div class="relative z-10 bg-black/30 backdrop-blur-xl border border-green-500/20 p-8 rounded-2xl shadow-2xl shadow-green-500/20 w-full max-w-2xl animate-fade-in-up">
-      <h1 class="text-3xl font-bold text-green-400 mb-6 text-center">Contact Us</h1>
+      <h1 class="text-3xl font-bold text-white mb-6 text-center">Contact Us</h1>
       <p class="text-center text-gray-300 mb-8">
         Have questions or want to collaborate with HungerFree? Get in touch with us.
       </p>

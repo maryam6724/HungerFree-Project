@@ -7,7 +7,7 @@
 
     <div class="relative z-10 bg-black/30 backdrop-blur-xl border border-green-500/20 p-8 rounded-2xl shadow-2xl shadow-green-500/20 w-full max-w-4xl animate-fade-in-up">
       <div class="text-center">
-        <h1 class="text-4xl font-bold text-green-400 mb-6">About HungerFree</h1>
+        <h1 class="text-4xl font-bold text-white mb-6">About HungerFree</h1>
         <p class="text-lg text-gray-200 leading-relaxed mb-6">
           HungerFree is a community-driven platform that bridges the gap between
           <span class="font-semibold text-green-300">restaurants</span> with surplus food
