@@ -37,8 +37,8 @@
       </form>
 
       <div class="mt-10 text-center text-gray-400">
-        <p>Email: <span class="font-medium text-green-400">support@hungerfree.org</span></p>
-        <p>Phone: <span class="font-medium text-green-400">+91 98765 43210</span></p>
+        <p>Email: <span class="font-medium text-blue-400">support@hungerfree.org</span></p>
+        <p>Phone: <span class="font-medium text-blue-400">+91 98765 43210</span></p>
       </div>
     </div>
   </div>
