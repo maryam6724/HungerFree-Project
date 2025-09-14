@@ -53,12 +53,16 @@ import Login from "@/views/Login.vue";
 import Signup from "@/views/Signup.vue";
 import RestaurantDashboard from "@/views/RestaurantDashboard.vue";
 import NGODashboard from "@/views/NGODashboard.vue";
+import AboutUs from "@/views/AboutUs.vue";
+import ContactUs from "@/views/ContactUs.vue";
 
 const routes = [
   { path: "/", name: "Home", component: Home },
 
   { path: "/login", name: "Login", component: Login },
   { path: "/signup", name: "Signup", component: Signup },
+  { path: "/about", name: "AboutUs", component: AboutUs },
+  { path: "/contact", name: "ContactUs", component: ContactUs },
 
   {
     path: "/restaurant",
