@@ -52,7 +52,7 @@ import Home from "@/views/Home.vue";
 import Login from "@/views/Login.vue";
 import Signup from "@/views/Signup.vue";
 import RestaurantDashboard from "@/views/RestaurantDashboard.vue";
-import NGODashboard from "@/views/NGODashboard.vue";
+import NGODashboard from "@/views/NgoDashboard.vue";
 import AboutUs from "@/views/AboutUs.vue";
 import ContactUs from "@/views/ContactUs.vue";
 
