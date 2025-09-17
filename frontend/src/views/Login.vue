@@ -65,7 +65,7 @@ const authStore = useAuthStore();
 
 const handleLogin = async () => {
   try {
-    const res = await fetch("https://hungerfree-5r2b.onrender.com/auth/login", {
+    const res = await fetch("http://localhost:5000/auth/login", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
