@@ -55,7 +55,7 @@ import api from "@/service/api"
 import io from 'socket.io-client'
 
 const donations = ref([])
-const socket = io('http://localhost:5000')
+const socket = io('https://hungerfree-5r2b.onrender.com')
 
 const fetchDonations = async () => {
   const res = await api.get("/donations")
