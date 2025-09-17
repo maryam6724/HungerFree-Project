@@ -3,7 +3,7 @@ import { useAuthStore } from "@/stores/auth";
 import { useRouter } from "vue-router";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000", // Flask backend
+  baseURL: import.meta.env.VITE_API_BASE_URL , // Use environment variable or fallback
 });
 
 // Attach token to every request
