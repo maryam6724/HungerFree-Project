@@ -11,7 +11,6 @@ Restaurants can donate surplus food, while NGOs can request and receive meals ef
 - [Architecture Diagram](#-architecture-diagram)
 - [Installation](#️-installation)
 - [Usage](#️-usage)
-- [ER Diagram](#-ER-diagram)
 - [API Documentation](#-api-documentation)
 - [Environment Configuration](#-environment-configuration)
 - [Screenshots / Demo](#-screenshots--demo)
@@ -95,10 +94,6 @@ Frontend runs at: http://localhost:5173
 5. **Restaurants** → Accept or reject NGO requests
 
 ---
-
-[ER Diagram](#-ER-diagram)
-
-----
 
 ## 📡 API Documentation
 Auth
