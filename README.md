@@ -121,6 +121,16 @@ JWT_SECRET_KEY → Secret key for JWT signing
 
 [Screenshots / Demo](#-screenshots--demo)
 ![Home](frontend/public/Home.png)
+## 📸 Screenshots / Demo
+
+### Home Page
+![Home Page Screenshot](frontend/public/Home.png)
+
+### Restaurant Dashboard
+![Restaurant Dashboard](frontend/public/RestaurantDashboard.png)
+
+### NGO Dashboard
+![NGO Dashboard](frontend/public/NGODashboard.png)
 
 ---
 
