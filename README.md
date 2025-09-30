@@ -120,6 +120,7 @@ JWT_SECRET_KEY → Secret key for JWT signing
 ----
 
 [Screenshots / Demo](#-screenshots--demo)
+![Home](frontend/public/Home.png)
 
 ---
 
