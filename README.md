@@ -100,6 +100,7 @@ Frontend runs at: http://localhost:5173
 ---
 
 ## 📡 API Documentation
+```bash
 Auth
 POST /auth/signup → Register Restaurant/NGO
 POST /auth/login → Login, receive JWT
@@ -109,32 +110,35 @@ POST /donations/add → Restaurant adds donation
 GET /donations/list → NGO fetches available donations
 POST /donations/request/<id> → NGO requests donation
 POST /donations/accept/<id> → Restaurant accepts request
-
+```
 ---
 
 ## 🌍 Environment Configuration
-
+```bash
 Required environment variables (backend/.env):
 DATABASE_URL=postgresql://postgres:password@db.supabase.co:5432/postgres
 JWT_SECRET_KEY=mysecret
 
 DATABASE_URL → Supabase PostgreSQL connection string
 JWT_SECRET_KEY → Secret key for JWT signing
-
+```
 ----
 
 [Screenshots / Demo](#-screenshots--demo)
-![Home](frontend/public/Home.png)
+
 ## 📸 Screenshots / Demo
 
 ### Home Page
 ![Home Page Screenshot](frontend/public/Home.png)
 
+### Sgn Up Page
+![NGO Dashboard](frontend/public/SignUp.png)
+
 ### Restaurant Dashboard
-![Restaurant Dashboard](frontend/public/RestaurantDashboard.png)
+![Restaurant Dashboard](frontend/public/Restaurant.png)
 
 ### NGO Dashboard
-![NGO Dashboard](frontend/public/NGODashboard.png)
+![NGO Dashboard](frontend/public/NGO.png)
 
 ---
 
