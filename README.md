@@ -40,7 +40,7 @@ Restaurants can donate surplus food, while NGOs can request and receive meals ef
 
 ---
 
-![HungerFree Architecture Diagram](./Architecture%20Diagram.png)
+![HungerFree Architecture Diagram](frontend/public/Architecture.png)
 
 
 ---
@@ -124,7 +124,7 @@ JWT_SECRET_KEY → Secret key for JWT signing
 ```
 ----
 
-[Screenshots / Demo](#-screenshots--demo)
+
 
 ## 📸 Screenshots / Demo
 
@@ -143,12 +143,17 @@ JWT_SECRET_KEY → Secret key for JWT signing
 ---
 
 ## 🚀 Future Enhancements
+
 Here are some planned improvements for HungerFree:
-✅ Real-time Notifications
-Push alerts when a donation is requested or accepted
-✅ Geo-location Support
-Match NGOs with the nearest Restaurants
-✅ Analytics Dashboard
-Track food donated, meals served, and reduce wastage stats
-✅ Multi-language Support
-Make the platform accessible for wider communities
+
+- ✅ **Real-time Notifications**  
+  Push alerts when a donation is requested or accepted
+
+- ✅ **Geo-location Support**  
+  Match NGOs with the nearest Restaurants
+
+- ✅ **Analytics Dashboard**  
+  Track food donated, meals served, and reduce wastage stats
+
+- ✅ **Multi-language Support**  
+  Make the platform accessible for wider communities
